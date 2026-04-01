@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon Salon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>MOT'TIF'S Coiffure</h1>
+  <p>Bienvenue !</p>
+
+</body>
+</html>
+<ul>
+  <li>Coupe homme : 20€</li>
+  <li>Coupe femme : 30€</li>
+  <li>Barbe : 10€</li>
+</ul>
+<img src="images/photo1.jpg" alt="Coupe homme">
+<img src="images/photo2.jpg" alt="Barbe">
+<p>📍 8 Rue Bernard Gangloff, 01160 Pont-d'Ain</p>
+<p>📞 04 74 39 07 55</p>
+<img src="image: url(&quot;https://lh3.googleusercontent.com/p/AF1QipMYZ6Znfy3yF_A-gbhjeNKbLKfp2ydhJ61erdRv=s585-k-no&quot;);" alt="description">
